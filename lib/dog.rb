@@ -2,4 +2,6 @@ class Dog
   
 end
 
-Pluto.Dog.new()
+fido=Dog.new()
+snoopy=Dog.new()
+lassie.Dog.new()
